@@ -1,0 +1,1 @@
+# BashSript-for-DeletingTemparoryFilesOrLogs
